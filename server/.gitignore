@@ -1,0 +1,34 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+*.env
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Dependency manager files (optional, depending on the project setup)
+Pipfile.lock
+poetry.lock
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
