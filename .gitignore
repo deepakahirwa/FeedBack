@@ -9,6 +9,7 @@ env/
 .venv/
 ENV/
 backend/*.env
+.env
 client/*.env
 server/*.env
 
